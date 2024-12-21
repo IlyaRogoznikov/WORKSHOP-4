@@ -83,19 +83,19 @@ XOR | дать комментарии о корректности работы
 ### 
 Построить визуальную модель работы перцептрона на сцене Unity.
 Я построил визуальную модель работы перцептрона используя простейшие кубы в Unity, разукрашивая их в белый и черный цвета (значения 0 и 1 соответственно)
-OR: До и после
+- OR: До и после
 ![image](https://github.com/user-attachments/assets/f2bdd811-04c4-4e0f-a393-3366d35017ca)
 ![image](https://github.com/user-attachments/assets/5867069d-64c8-48f8-b6fd-45ab30ecaf47)
 
-AND: До и посе
+- AND: До и посе
 ![image](https://github.com/user-attachments/assets/0833abf0-431e-4073-877d-f5a4d5427692)
 ![image](https://github.com/user-attachments/assets/983bc089-8228-49f7-86a7-58345c26185c)
 
-NAND: До и после 
+- NAND: До и после 
 ![image](https://github.com/user-attachments/assets/10852ccc-3d2f-4668-910c-232954f2a0ca)
 ![image](https://github.com/user-attachments/assets/2ba02612-98f6-41c6-abfe-f72056b307cb)
 
-XOR: До и после
+- XOR: До и после
 ![image](https://github.com/user-attachments/assets/1759396e-9216-416b-846c-63ae2ced47e2)
 ![image](https://github.com/user-attachments/assets/22a84d91-3c7b-404d-8afd-285bcba3cd41)
 
